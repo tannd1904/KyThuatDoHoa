@@ -1,0 +1,62 @@
+D:\PTIT\HK6\KTDH\project\Final\KyThuatDoHoa\KyThuatDoHoa\bin\Debug\KyThuatDoHoa.exe.config
+D:\PTIT\HK6\KTDH\project\Final\KyThuatDoHoa\KyThuatDoHoa\bin\Debug\KyThuatDoHoa.exe
+D:\PTIT\HK6\KTDH\project\Final\KyThuatDoHoa\KyThuatDoHoa\bin\Debug\KyThuatDoHoa.pdb
+D:\PTIT\HK6\KTDH\project\Final\KyThuatDoHoa\KyThuatDoHoa\obj\Debug\KyThuatDoHoa.csprojAssemblyReference.cache
+D:\PTIT\HK6\KTDH\project\Final\KyThuatDoHoa\KyThuatDoHoa\obj\Debug\KyThuatDoHoa.Form1.resources
+D:\PTIT\HK6\KTDH\project\Final\KyThuatDoHoa\KyThuatDoHoa\obj\Debug\KyThuatDoHoa.Properties.Resources.resources
+D:\PTIT\HK6\KTDH\project\Final\KyThuatDoHoa\KyThuatDoHoa\obj\Debug\KyThuatDoHoa.csproj.GenerateResource.cache
+D:\PTIT\HK6\KTDH\project\Final\KyThuatDoHoa\KyThuatDoHoa\obj\Debug\KyThuatDoHoa.csproj.CoreCompileInputs.cache
+D:\PTIT\HK6\KTDH\project\Final\KyThuatDoHoa\KyThuatDoHoa\obj\Debug\KyThuatDoHoa.exe
+D:\PTIT\HK6\KTDH\project\Final\KyThuatDoHoa\KyThuatDoHoa\obj\Debug\KyThuatDoHoa.pdb
+D:\PTIT\HK6\KTDH\project\KyThuatDoHoa\KyThuatDoHoa\bin\Debug\KyThuatDoHoa.exe.config
+D:\PTIT\HK6\KTDH\project\KyThuatDoHoa\KyThuatDoHoa\bin\Debug\KyThuatDoHoa.exe
+D:\PTIT\HK6\KTDH\project\KyThuatDoHoa\KyThuatDoHoa\bin\Debug\KyThuatDoHoa.pdb
+D:\PTIT\HK6\KTDH\project\KyThuatDoHoa\KyThuatDoHoa\obj\Debug\KyThuatDoHoa.csprojAssemblyReference.cache
+D:\PTIT\HK6\KTDH\project\KyThuatDoHoa\KyThuatDoHoa\obj\Debug\KyThuatDoHoa.Form1.resources
+D:\PTIT\HK6\KTDH\project\KyThuatDoHoa\KyThuatDoHoa\obj\Debug\KyThuatDoHoa.Properties.Resources.resources
+D:\PTIT\HK6\KTDH\project\KyThuatDoHoa\KyThuatDoHoa\obj\Debug\KyThuatDoHoa.csproj.GenerateResource.cache
+D:\PTIT\HK6\KTDH\project\KyThuatDoHoa\KyThuatDoHoa\obj\Debug\KyThuatDoHoa.csproj.CoreCompileInputs.cache
+D:\PTIT\HK6\KTDH\project\KyThuatDoHoa\KyThuatDoHoa\obj\Debug\KyThuatDoHoa.exe
+D:\PTIT\HK6\KTDH\project\KyThuatDoHoa\KyThuatDoHoa\obj\Debug\KyThuatDoHoa.pdb
+D:\PTIT\HK6\KTDH\project\Final\KTDH_2020\KyThuatDoHoa\bin\Debug\KyThuatDoHoa.exe.config
+D:\PTIT\HK6\KTDH\project\Final\KTDH_2020\KyThuatDoHoa\bin\Debug\KyThuatDoHoa.exe
+D:\PTIT\HK6\KTDH\project\Final\KTDH_2020\KyThuatDoHoa\bin\Debug\KyThuatDoHoa.pdb
+D:\PTIT\HK6\KTDH\project\Final\KTDH_2020\KyThuatDoHoa\obj\Debug\KyThuatDoHoa.csprojAssemblyReference.cache
+D:\PTIT\HK6\KTDH\project\Final\KTDH_2020\KyThuatDoHoa\obj\Debug\KyThuatDoHoa.Form1.resources
+D:\PTIT\HK6\KTDH\project\Final\KTDH_2020\KyThuatDoHoa\obj\Debug\KyThuatDoHoa.Properties.Resources.resources
+D:\PTIT\HK6\KTDH\project\Final\KTDH_2020\KyThuatDoHoa\obj\Debug\KyThuatDoHoa.csproj.GenerateResource.cache
+D:\PTIT\HK6\KTDH\project\Final\KTDH_2020\KyThuatDoHoa\obj\Debug\KyThuatDoHoa.csproj.CoreCompileInputs.cache
+D:\PTIT\HK6\KTDH\project\Final\KTDH_2020\KyThuatDoHoa\obj\Debug\KyThuatDoHoa.exe
+D:\PTIT\HK6\KTDH\project\Final\KTDH_2020\KyThuatDoHoa\obj\Debug\KyThuatDoHoa.pdb
+D:\PTIT\HK6\KTDH\project\Final\KTDH_2020 (2)\KTDH_2020\KyThuatDoHoa\bin\Debug\KyThuatDoHoa.exe.config
+D:\PTIT\HK6\KTDH\project\Final\KTDH_2020 (2)\KTDH_2020\KyThuatDoHoa\bin\Debug\KyThuatDoHoa.exe
+D:\PTIT\HK6\KTDH\project\Final\KTDH_2020 (2)\KTDH_2020\KyThuatDoHoa\bin\Debug\KyThuatDoHoa.pdb
+D:\PTIT\HK6\KTDH\project\Final\KTDH_2020 (2)\KTDH_2020\KyThuatDoHoa\bin\Debug\MathNet.Numerics.dll
+D:\PTIT\HK6\KTDH\project\Final\KTDH_2020 (2)\KTDH_2020\KyThuatDoHoa\bin\Debug\MathNet.Numerics.xml
+D:\PTIT\HK6\KTDH\project\Final\KTDH_2020 (2)\KTDH_2020\KyThuatDoHoa\obj\Debug\KyThuatDoHoa.Form1.resources
+D:\PTIT\HK6\KTDH\project\Final\KTDH_2020 (2)\KTDH_2020\KyThuatDoHoa\obj\Debug\KyThuatDoHoa.Properties.Resources.resources
+D:\PTIT\HK6\KTDH\project\Final\KTDH_2020 (2)\KTDH_2020\KyThuatDoHoa\obj\Debug\KyThuatDoHoa.csproj.GenerateResource.cache
+D:\PTIT\HK6\KTDH\project\Final\KTDH_2020 (2)\KTDH_2020\KyThuatDoHoa\obj\Debug\KyThuatDoHoa.csproj.CoreCompileInputs.cache
+D:\PTIT\HK6\KTDH\project\Final\KTDH_2020 (2)\KTDH_2020\KyThuatDoHoa\obj\Debug\KyThuatDoHoa.csproj.CopyComplete
+D:\PTIT\HK6\KTDH\project\Final\KTDH_2020 (2)\KTDH_2020\KyThuatDoHoa\obj\Debug\KyThuatDoHoa.exe
+D:\PTIT\HK6\KTDH\project\Final\KTDH_2020 (2)\KTDH_2020\KyThuatDoHoa\obj\Debug\KyThuatDoHoa.pdb
+D:\PTIT\HK6\KTDH\project\Final\KTDH_2020 (2)\KTDH_2020\KyThuatDoHoa\obj\Debug\KyThuatDoHoa.csprojAssemblyReference.cache
+E:\Downloads\KTDH_Nhóm-12_D17CQCN03-N\KyThuatDoHoa\bin\Debug\KyThuatDoHoa.exe.config
+E:\Downloads\KTDH_Nhóm-12_D17CQCN03-N\KyThuatDoHoa\bin\Debug\KyThuatDoHoa.exe
+E:\Downloads\KTDH_Nhóm-12_D17CQCN03-N\KyThuatDoHoa\bin\Debug\KyThuatDoHoa.pdb
+E:\Downloads\KTDH_Nhóm-12_D17CQCN03-N\KyThuatDoHoa\bin\Debug\MathNet.Numerics.dll
+E:\Downloads\KTDH_Nhóm-12_D17CQCN03-N\KyThuatDoHoa\bin\Debug\MathNet.Numerics.xml
+E:\Downloads\KTDH_Nhóm-12_D17CQCN03-N\KyThuatDoHoa\obj\Debug\KyThuatDoHoa.csprojAssemblyReference.cache
+E:\Downloads\KTDH_Nhóm-12_D17CQCN03-N\KyThuatDoHoa\obj\Debug\KyThuatDoHoa.Form1.resources
+E:\Downloads\KTDH_Nhóm-12_D17CQCN03-N\KyThuatDoHoa\obj\Debug\KyThuatDoHoa.Properties.Resources.resources
+E:\Downloads\KTDH_Nhóm-12_D17CQCN03-N\KyThuatDoHoa\obj\Debug\KyThuatDoHoa.csproj.GenerateResource.cache
+E:\Downloads\KTDH_Nhóm-12_D17CQCN03-N\KyThuatDoHoa\obj\Debug\KyThuatDoHoa.csproj.CoreCompileInputs.cache
+E:\Downloads\KTDH_Nhóm-12_D17CQCN03-N\KyThuatDoHoa\obj\Debug\KyThuatDoHoa.csproj.CopyComplete
+E:\Downloads\KTDH_Nhóm-12_D17CQCN03-N\KyThuatDoHoa\obj\Debug\KyThuatDoHoa.exe
+E:\Downloads\KTDH_Nhóm-12_D17CQCN03-N\KyThuatDoHoa\obj\Debug\KyThuatDoHoa.pdb
+D:\Download\KTDH_Nhóm-12_D17CQCN03-N\KyThuatDoHoa\obj\Debug\KyThuatDoHoa.csprojResolveAssemblyReference.cache
+D:\Download\KTDH_Nhóm-12_D17CQCN03-N\KyThuatDoHoa\obj\Debug\KyThuatDoHoa.Form1.resources
+D:\Download\KTDH_Nhóm-12_D17CQCN03-N\KyThuatDoHoa\obj\Debug\KyThuatDoHoa.Properties.Resources.resources
+D:\Download\KTDH_Nhóm-12_D17CQCN03-N\KyThuatDoHoa\obj\Debug\KyThuatDoHoa.csproj.GenerateResource.Cache
+D:\Download\KTDH_Nhóm-12_D17CQCN03-N\KyThuatDoHoa\obj\Debug\KyThuatDoHoa.exe
+D:\Download\KTDH_Nhóm-12_D17CQCN03-N\KyThuatDoHoa\obj\Debug\KyThuatDoHoa.pdb

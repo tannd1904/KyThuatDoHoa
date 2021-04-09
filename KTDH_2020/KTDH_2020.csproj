@@ -1,0 +1,242 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6754411C-6F30-4CEF-A85F-2E42ECDB6D17}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>KTDH_2020</RootNamespace>
+    <AssemblyName>KTDH_2020</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Image_Res.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Image_Res.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Object\2D\HieuUngKhoi.cs" />
+    <Compile Include="Object\2D\HieuUngLua.cs" />
+    <Compile Include="Object\2D\HinhPhu.cs" />
+    <Compile Include="Object\2D\HinhTenLua_Exte.cs" />
+    <Compile Include="Object\2D\HinhVeTinh.cs" />
+    <Compile Include="Object\Constants.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Object\ToaDo.cs" />
+    <Compile Include="Object\DefineType\Direction.cs" />
+    <Compile Include="Object\DefineType\Matrixs.cs" />
+    <Compile Include="Object\DefineType\SymmetryMode.cs" />
+    <Compile Include="Object\Shapes2DObject.cs" />
+    <Compile Include="Object\2D\HinhElip.cs" />
+    <Compile Include="Object\2D\HinhTamGiac.cs" />
+    <Compile Include="Object\2D\HinhTron.cs" />
+    <Compile Include="Object\2D\HinhTenLua.cs" />
+    <Compile Include="Object\2D\Line.cs" />
+    <Compile Include="Object\2D\HinhChuNhat.cs" />
+    <Compile Include="Object\2D\Transformations.cs" />
+    <Compile Include="Object\3D\HinhLapPhuong.cs" />
+    <Compile Include="Object\3D\HinhCau.cs" />
+    <Compile Include="Object\3D\INotifyPropertyChangeds.cs" />
+    <Compile Include="UI\UserCtr\ChooseMode.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI\UserCtr\ChooseMode.Designer.cs">
+      <DependentUpon>ChooseMode.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\UserCtr\HinhCauProperties.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI\UserCtr\HinhCauProperties.Designer.cs">
+      <DependentUpon>HinhCauProperties.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\UserCtr\HinhLapPhuongProperties.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI\UserCtr\HinhLapPhuongProperties.Designer.cs">
+      <DependentUpon>HinhLapPhuongProperties.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\UserCtr\InToaDo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI\UserCtr\InToaDo.Designer.cs">
+      <DependentUpon>InToaDo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\UserCtr\SpaceshipProperties .cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI\UserCtr\SpaceshipProperties .Designer.cs">
+      <DependentUpon>SpaceshipProperties .cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Main.Designer.cs">
+      <DependentUpon>Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UI\frm_ChangeMode.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\frm_ChangeMode.Designer.cs">
+      <DependentUpon>frm_ChangeMode.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Object\Globals.cs" />
+    <EmbeddedResource Include="Image_Res.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Image_Res.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Main.resx">
+      <DependentUpon>Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\frm_ChangeMode.resx">
+      <DependentUpon>frm_ChangeMode.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\UserCtr\ChooseMode.resx">
+      <DependentUpon>ChooseMode.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\UserCtr\HinhLapPhuongProperties.resx">
+      <DependentUpon>HinhLapPhuongProperties.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\UserCtr\HinhCauProperties.resx">
+      <DependentUpon>HinhCauProperties.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\UserCtr\InToaDo.resx">
+      <DependentUpon>InToaDo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\UserCtr\SpaceshipProperties .resx">
+      <DependentUpon>SpaceshipProperties .cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cylinder.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gnome_window_close.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mouse.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\objects.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shapes.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\truck.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\windmill.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_misc-_cube_1276871.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\information-button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gird.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OK.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\1-512.png" />
+    <Content Include="Resources\1455554775_line-85_icon-icons.com_53362.png" />
+    <Content Include="Resources\1666771.png" />
+    <Content Include="Resources\arrow_entrance_in_internet_log_login_security_icon_127060.ico" />
+    <Content Include="Resources\cursor_115135.png" />
+    <Content Include="Resources\hhg.ico" />
+    <Content Include="Resources\login-arrow-symbol-entering-back-into-a-square_icon-icons.com_73221.ico" />
+    <Content Include="Resources\logo_orange_spacex_icon_134372 %282%29.ico" />
+    <None Include="Resources\logo_orange_spacex_icon_134372 %283%29.ico" />
+    <Content Include="Resources\logo_orange_spacex_icon_134372.ico" />
+    <Content Include="Resources\logo_orange_spacex_icon_134372.png" />
+    <Content Include="Resources\shapesphere_120489.ico" />
+    <Content Include="Resources\sphere-3d-object-geometry_108591.ico" />
+    <None Include="Resources\if-advantage-teamwork-1034367_88840.png" />
+    <Content Include="Resources\images.png" />
+    <None Include="Resources\info_about_information_icon_132735.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\KyThuatDoHoa\KyThuatDoHoa.csproj">
+      <Project>{af2634e9-64c4-4db4-94a4-7ed050c065c0}</Project>
+      <Name>KyThuatDoHoa</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

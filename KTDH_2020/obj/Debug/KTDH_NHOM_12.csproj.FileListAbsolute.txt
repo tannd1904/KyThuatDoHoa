@@ -1,0 +1,92 @@
+C:\Users\nguye\Desktop\KyThuatDoHoa\KyThuatDoHoa_HVCNBCVT_D16CQCN02-master\KTDH_NHOM_12\bin\Debug\KTDH_NHOM_12.exe.config
+C:\Users\nguye\Desktop\KyThuatDoHoa\KyThuatDoHoa_HVCNBCVT_D16CQCN02-master\KTDH_NHOM_12\bin\Debug\KTDH_NHOM_12.exe
+C:\Users\nguye\Desktop\KyThuatDoHoa\KyThuatDoHoa_HVCNBCVT_D16CQCN02-master\KTDH_NHOM_12\bin\Debug\KTDH_NHOM_12.pdb
+C:\Users\nguye\Desktop\KyThuatDoHoa\KyThuatDoHoa_HVCNBCVT_D16CQCN02-master\KTDH_NHOM_12\obj\Debug\KTDH_NHOM_12.Image_Res.resources
+C:\Users\nguye\Desktop\KyThuatDoHoa\KyThuatDoHoa_HVCNBCVT_D16CQCN02-master\KTDH_NHOM_12\obj\Debug\KTDH_nhom_12.InfoTeam.resources
+C:\Users\nguye\Desktop\KyThuatDoHoa\KyThuatDoHoa_HVCNBCVT_D16CQCN02-master\KTDH_NHOM_12\obj\Debug\KTDH_NHOM_12.frm_Main.resources
+C:\Users\nguye\Desktop\KyThuatDoHoa\KyThuatDoHoa_HVCNBCVT_D16CQCN02-master\KTDH_NHOM_12\obj\Debug\KTDH_NHOM_12.Properties.Resources.resources
+C:\Users\nguye\Desktop\KyThuatDoHoa\KyThuatDoHoa_HVCNBCVT_D16CQCN02-master\KTDH_NHOM_12\obj\Debug\KTDH_NHOM_12.UI.frm_ChangeMode.resources
+C:\Users\nguye\Desktop\KyThuatDoHoa\KyThuatDoHoa_HVCNBCVT_D16CQCN02-master\KTDH_NHOM_12\obj\Debug\KTDH_NHOM_12.UI.UserCtr.ChooseMode.resources
+C:\Users\nguye\Desktop\KyThuatDoHoa\KyThuatDoHoa_HVCNBCVT_D16CQCN02-master\KTDH_NHOM_12\obj\Debug\KTDH_NHOM_12.UI.UserCtr.CircleProperties.resources
+C:\Users\nguye\Desktop\KyThuatDoHoa\KyThuatDoHoa_HVCNBCVT_D16CQCN02-master\KTDH_NHOM_12\obj\Debug\KTDH_NHOM_12.UI.UserCtr.ClockProperties.resources
+C:\Users\nguye\Desktop\KyThuatDoHoa\KyThuatDoHoa_HVCNBCVT_D16CQCN02-master\KTDH_NHOM_12\obj\Debug\KTDH_NHOM_12.UI.UserCtr.HinhHopChuNhatProperties.resources
+C:\Users\nguye\Desktop\KyThuatDoHoa\KyThuatDoHoa_HVCNBCVT_D16CQCN02-master\KTDH_NHOM_12\obj\Debug\KTDH_NHOM_12.UI.UserCtr.HinhTruProperties.resources
+C:\Users\nguye\Desktop\KyThuatDoHoa\KyThuatDoHoa_HVCNBCVT_D16CQCN02-master\KTDH_NHOM_12\obj\Debug\KTDH_NHOM_12.UI.UserCtr.TimepieceProperties.resources
+C:\Users\nguye\Desktop\KyThuatDoHoa\KyThuatDoHoa_HVCNBCVT_D16CQCN02-master\KTDH_NHOM_12\obj\Debug\KTDH_NHOM_12.UI.UserCtr.XeProperties.resources
+C:\Users\nguye\Desktop\KyThuatDoHoa\KyThuatDoHoa_HVCNBCVT_D16CQCN02-master\KTDH_NHOM_12\obj\Debug\KTDH_NHOM_12.csproj.GenerateResource.cache
+C:\Users\nguye\Desktop\KyThuatDoHoa\KyThuatDoHoa_HVCNBCVT_D16CQCN02-master\KTDH_NHOM_12\obj\Debug\KTDH_NHOM_12.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Desktop\KyThuatDoHoa\KyThuatDoHoa_HVCNBCVT_D16CQCN02-master\KTDH_NHOM_12\obj\Debug\KTDH_NHOM_12.exe
+C:\Users\nguye\Desktop\KyThuatDoHoa\KyThuatDoHoa_HVCNBCVT_D16CQCN02-master\KTDH_NHOM_12\obj\Debug\KTDH_NHOM_12.pdb
+C:\Users\nguye\Desktop\KyThuatDoHoa\KyThuatDoHoa_HVCNBCVT_D16CQCN02-master\KTDH_NHOM_12\obj\Debug\KTDH_NHOM_12.csprojAssemblyReference.cache
+C:\Users\nguye\Desktop\KyThuatDoHoa\D16CQCN02-Nhom-12\KTDH_NHOM_12\bin\Debug\KTDH_NHOM_12.exe.config
+C:\Users\nguye\Desktop\KyThuatDoHoa\D16CQCN02-Nhom-12\KTDH_NHOM_12\bin\Debug\KTDH_NHOM_12.exe
+C:\Users\nguye\Desktop\KyThuatDoHoa\D16CQCN02-Nhom-12\KTDH_NHOM_12\bin\Debug\KTDH_NHOM_12.pdb
+C:\Users\nguye\Desktop\KyThuatDoHoa\D16CQCN02-Nhom-12\KTDH_NHOM_12\obj\Debug\KTDH_NHOM_12.csprojAssemblyReference.cache
+C:\Users\nguye\Desktop\KyThuatDoHoa\D16CQCN02-Nhom-12\KTDH_NHOM_12\obj\Debug\KTDH_NHOM_12.Image_Res.resources
+C:\Users\nguye\Desktop\KyThuatDoHoa\D16CQCN02-Nhom-12\KTDH_NHOM_12\obj\Debug\KTDH_nhom_12.InfoTeam.resources
+C:\Users\nguye\Desktop\KyThuatDoHoa\D16CQCN02-Nhom-12\KTDH_NHOM_12\obj\Debug\KTDH_NHOM_12.frm_Main.resources
+C:\Users\nguye\Desktop\KyThuatDoHoa\D16CQCN02-Nhom-12\KTDH_NHOM_12\obj\Debug\KTDH_NHOM_12.Properties.Resources.resources
+C:\Users\nguye\Desktop\KyThuatDoHoa\D16CQCN02-Nhom-12\KTDH_NHOM_12\obj\Debug\KTDH_NHOM_12.UI.frm_ChangeMode.resources
+C:\Users\nguye\Desktop\KyThuatDoHoa\D16CQCN02-Nhom-12\KTDH_NHOM_12\obj\Debug\KTDH_NHOM_12.UI.UserCtr.ChooseMode.resources
+C:\Users\nguye\Desktop\KyThuatDoHoa\D16CQCN02-Nhom-12\KTDH_NHOM_12\obj\Debug\KTDH_NHOM_12.UI.UserCtr.HinhHopChuNhatProperties.resources
+C:\Users\nguye\Desktop\KyThuatDoHoa\D16CQCN02-Nhom-12\KTDH_NHOM_12\obj\Debug\KTDH_NHOM_12.UI.UserCtr.HinhTruProperties.resources
+C:\Users\nguye\Desktop\KyThuatDoHoa\D16CQCN02-Nhom-12\KTDH_NHOM_12\obj\Debug\KTDH_NHOM_12.csproj.GenerateResource.cache
+C:\Users\nguye\Desktop\KyThuatDoHoa\D16CQCN02-Nhom-12\KTDH_NHOM_12\obj\Debug\KTDH_NHOM_12.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Desktop\KyThuatDoHoa\D16CQCN02-Nhom-12\KTDH_NHOM_12\obj\Debug\KTDH_NHOM_12.exe
+C:\Users\nguye\Desktop\KyThuatDoHoa\D16CQCN02-Nhom-12\KTDH_NHOM_12\obj\Debug\KTDH_NHOM_12.pdb
+C:\Users\nguye\Desktop\KyThuatDoHoa\D16CQCN02-Nhom-12\KTDH_NHOM_12\obj\Debug\KTDH_NHOM_12.UI.UserCtr.TruckProperties.resources
+C:\Users\nguye\Desktop\KyThuatDoHoa\D16CQCN02-Nhom-12\KTDH_NHOM_12\obj\Debug\KTDH_NHOM_12.UI.UserCtr.PinWheelProperties.resources
+E:\Tai Lieu + Giao Trinh\Ky thuat do hoa\KyThuatDoHoa\D16CQCN02-Nhom-12\KTDH_NHOM_12\bin\Debug\KTDH_NHOM_12.exe.config
+E:\Tai Lieu + Giao Trinh\Ky thuat do hoa\KyThuatDoHoa\D16CQCN02-Nhom-12\KTDH_NHOM_12\bin\Debug\KTDH_NHOM_12.exe
+E:\Tai Lieu + Giao Trinh\Ky thuat do hoa\KyThuatDoHoa\D16CQCN02-Nhom-12\KTDH_NHOM_12\bin\Debug\KTDH_NHOM_12.pdb
+E:\Tai Lieu + Giao Trinh\Ky thuat do hoa\KyThuatDoHoa\D16CQCN02-Nhom-12\KTDH_NHOM_12\obj\Debug\KTDH_NHOM_12.csprojAssemblyReference.cache
+E:\Tai Lieu + Giao Trinh\Ky thuat do hoa\KyThuatDoHoa\D16CQCN02-Nhom-12\KTDH_NHOM_12\obj\Debug\KTDH_NHOM_12.Image_Res.resources
+E:\Tai Lieu + Giao Trinh\Ky thuat do hoa\KyThuatDoHoa\D16CQCN02-Nhom-12\KTDH_NHOM_12\obj\Debug\KTDH_nhom_12.InfoTeam.resources
+E:\Tai Lieu + Giao Trinh\Ky thuat do hoa\KyThuatDoHoa\D16CQCN02-Nhom-12\KTDH_NHOM_12\obj\Debug\KTDH_NHOM_12.frm_Main.resources
+E:\Tai Lieu + Giao Trinh\Ky thuat do hoa\KyThuatDoHoa\D16CQCN02-Nhom-12\KTDH_NHOM_12\obj\Debug\KTDH_NHOM_12.Properties.Resources.resources
+E:\Tai Lieu + Giao Trinh\Ky thuat do hoa\KyThuatDoHoa\D16CQCN02-Nhom-12\KTDH_NHOM_12\obj\Debug\KTDH_NHOM_12.UI.frm_ChangeMode.resources
+E:\Tai Lieu + Giao Trinh\Ky thuat do hoa\KyThuatDoHoa\D16CQCN02-Nhom-12\KTDH_NHOM_12\obj\Debug\KTDH_NHOM_12.UI.UserCtr.ChooseMode.resources
+E:\Tai Lieu + Giao Trinh\Ky thuat do hoa\KyThuatDoHoa\D16CQCN02-Nhom-12\KTDH_NHOM_12\obj\Debug\KTDH_NHOM_12.UI.UserCtr.HinhHopChuNhatProperties.resources
+E:\Tai Lieu + Giao Trinh\Ky thuat do hoa\KyThuatDoHoa\D16CQCN02-Nhom-12\KTDH_NHOM_12\obj\Debug\KTDH_NHOM_12.UI.UserCtr.HinhTruProperties.resources
+E:\Tai Lieu + Giao Trinh\Ky thuat do hoa\KyThuatDoHoa\D16CQCN02-Nhom-12\KTDH_NHOM_12\obj\Debug\KTDH_NHOM_12.UI.UserCtr.PinWheelProperties.resources
+E:\Tai Lieu + Giao Trinh\Ky thuat do hoa\KyThuatDoHoa\D16CQCN02-Nhom-12\KTDH_NHOM_12\obj\Debug\KTDH_NHOM_12.UI.UserCtr.TruckProperties.resources
+E:\Tai Lieu + Giao Trinh\Ky thuat do hoa\KyThuatDoHoa\D16CQCN02-Nhom-12\KTDH_NHOM_12\obj\Debug\KTDH_NHOM_12.csproj.GenerateResource.cache
+E:\Tai Lieu + Giao Trinh\Ky thuat do hoa\KyThuatDoHoa\D16CQCN02-Nhom-12\KTDH_NHOM_12\obj\Debug\KTDH_NHOM_12.csproj.CoreCompileInputs.cache
+E:\Tai Lieu + Giao Trinh\Ky thuat do hoa\KyThuatDoHoa\D16CQCN02-Nhom-12\KTDH_NHOM_12\obj\Debug\KTDH_NHOM_12.exe
+E:\Tai Lieu + Giao Trinh\Ky thuat do hoa\KyThuatDoHoa\D16CQCN02-Nhom-12\KTDH_NHOM_12\obj\Debug\KTDH_NHOM_12.pdb
+E:\Downloads\Nộp đề tài - KTĐH- D16CQCN02\Nộp đề tài - KTĐH- D16CQCN02\KTDH_Nhom 12 _D16CQCN02-N\D16CQCN02-Nhom-12\D16CQCN02-Nhom-12\KTDH_NHOM_12\bin\Debug\KTDH_NHOM_12.exe.config
+E:\Downloads\Nộp đề tài - KTĐH- D16CQCN02\Nộp đề tài - KTĐH- D16CQCN02\KTDH_Nhom 12 _D16CQCN02-N\D16CQCN02-Nhom-12\D16CQCN02-Nhom-12\KTDH_NHOM_12\obj\Debug\KTDH_NHOM_12.exe
+E:\Downloads\Nộp đề tài - KTĐH- D16CQCN02\Nộp đề tài - KTĐH- D16CQCN02\KTDH_Nhom 12 _D16CQCN02-N\D16CQCN02-Nhom-12\D16CQCN02-Nhom-12\KTDH_NHOM_12\obj\Debug\KTDH_NHOM_12.pdb
+E:\Downloads\Nộp đề tài - KTĐH- D16CQCN02\Nộp đề tài - KTĐH- D16CQCN02\KTDH_Nhom 12 _D16CQCN02-N\D16CQCN02-Nhom-12\D16CQCN02-Nhom-12\KTDH_NHOM_12\obj\Debug\KTDH_NHOM_12.Image_Res.resources
+E:\Downloads\Nộp đề tài - KTĐH- D16CQCN02\Nộp đề tài - KTĐH- D16CQCN02\KTDH_Nhom 12 _D16CQCN02-N\D16CQCN02-Nhom-12\D16CQCN02-Nhom-12\KTDH_NHOM_12\obj\Debug\KTDH_nhom_12.InfoTeam.resources
+E:\Downloads\Nộp đề tài - KTĐH- D16CQCN02\Nộp đề tài - KTĐH- D16CQCN02\KTDH_Nhom 12 _D16CQCN02-N\D16CQCN02-Nhom-12\D16CQCN02-Nhom-12\KTDH_NHOM_12\obj\Debug\KTDH_NHOM_12.frm_Main.resources
+E:\Downloads\Nộp đề tài - KTĐH- D16CQCN02\Nộp đề tài - KTĐH- D16CQCN02\KTDH_Nhom 12 _D16CQCN02-N\D16CQCN02-Nhom-12\D16CQCN02-Nhom-12\KTDH_NHOM_12\obj\Debug\KTDH_NHOM_12.Properties.Resources.resources
+E:\Downloads\Nộp đề tài - KTĐH- D16CQCN02\Nộp đề tài - KTĐH- D16CQCN02\KTDH_Nhom 12 _D16CQCN02-N\D16CQCN02-Nhom-12\D16CQCN02-Nhom-12\KTDH_NHOM_12\obj\Debug\KTDH_NHOM_12.UI.frm_ChangeMode.resources
+E:\Downloads\Nộp đề tài - KTĐH- D16CQCN02\Nộp đề tài - KTĐH- D16CQCN02\KTDH_Nhom 12 _D16CQCN02-N\D16CQCN02-Nhom-12\D16CQCN02-Nhom-12\KTDH_NHOM_12\obj\Debug\KTDH_NHOM_12.UI.UserCtr.ChooseMode.resources
+E:\Downloads\Nộp đề tài - KTĐH- D16CQCN02\Nộp đề tài - KTĐH- D16CQCN02\KTDH_Nhom 12 _D16CQCN02-N\D16CQCN02-Nhom-12\D16CQCN02-Nhom-12\KTDH_NHOM_12\obj\Debug\KTDH_NHOM_12.UI.UserCtr.HinhHopChuNhatProperties.resources
+E:\Downloads\Nộp đề tài - KTĐH- D16CQCN02\Nộp đề tài - KTĐH- D16CQCN02\KTDH_Nhom 12 _D16CQCN02-N\D16CQCN02-Nhom-12\D16CQCN02-Nhom-12\KTDH_NHOM_12\obj\Debug\KTDH_NHOM_12.UI.UserCtr.HinhTruProperties.resources
+E:\Downloads\Nộp đề tài - KTĐH- D16CQCN02\Nộp đề tài - KTĐH- D16CQCN02\KTDH_Nhom 12 _D16CQCN02-N\D16CQCN02-Nhom-12\D16CQCN02-Nhom-12\KTDH_NHOM_12\obj\Debug\KTDH_NHOM_12.UI.UserCtr.PinWheelProperties.resources
+E:\Downloads\Nộp đề tài - KTĐH- D16CQCN02\Nộp đề tài - KTĐH- D16CQCN02\KTDH_Nhom 12 _D16CQCN02-N\D16CQCN02-Nhom-12\D16CQCN02-Nhom-12\KTDH_NHOM_12\obj\Debug\KTDH_NHOM_12.UI.UserCtr.TruckProperties.resources
+E:\Downloads\Nộp đề tài - KTĐH- D16CQCN02\Nộp đề tài - KTĐH- D16CQCN02\KTDH_Nhom 12 _D16CQCN02-N\D16CQCN02-Nhom-12\D16CQCN02-Nhom-12\KTDH_NHOM_12\obj\Debug\KTDH_NHOM_12.csproj.GenerateResource.Cache
+E:\Downloads\Nộp đề tài - KTĐH- D16CQCN02\Nộp đề tài - KTĐH- D16CQCN02\KTDH_Nhom 12 _D16CQCN02-N\D16CQCN02-Nhom-12\D16CQCN02-Nhom-12\KTDH_NHOM_12\bin\Debug\KTDH_NHOM_12.exe
+E:\Downloads\Nộp đề tài - KTĐH- D16CQCN02\Nộp đề tài - KTĐH- D16CQCN02\KTDH_Nhom 12 _D16CQCN02-N\D16CQCN02-Nhom-12\D16CQCN02-Nhom-12\KTDH_NHOM_12\bin\Debug\KTDH_NHOM_12.pdb
+E:\Downloads\Nộp đề tài - KTĐH- D16CQCN02\Nộp đề tài - KTĐH- D16CQCN02\KTDH_Nhom 12 _D16CQCN02-N\D16CQCN02-Nhom-12\D16CQCN02-Nhom-12\KTDH_NHOM_12\obj\Debug\KTDH_NHOM_12.csprojAssemblyReference.cache
+E:\Downloads\Nộp đề tài - KTĐH- D16CQCN02\Nộp đề tài - KTĐH- D16CQCN02\KTDH_Nhom 12 _D16CQCN02-N\D16CQCN02-Nhom-12\D16CQCN02-Nhom-12\KTDH_NHOM_12\obj\Debug\KTDH_NHOM_12.csproj.CoreCompileInputs.cache
+C:\Users\vodin\Desktop\KTDH_NHOM_12\bin\Debug\KTDH_NHOM_12.exe.config
+C:\Users\vodin\Desktop\KTDH_NHOM_12\bin\Debug\KTDH_NHOM_12.exe
+C:\Users\vodin\Desktop\KTDH_NHOM_12\bin\Debug\KTDH_NHOM_12.pdb
+C:\Users\vodin\Desktop\KTDH_NHOM_12\obj\Debug\KTDH_NHOM_12.csprojAssemblyReference.cache
+C:\Users\vodin\Desktop\KTDH_NHOM_12\obj\Debug\KTDH_NHOM_12.Image_Res.resources
+C:\Users\vodin\Desktop\KTDH_NHOM_12\obj\Debug\KTDH_nhom_12.InfoTeam.resources
+C:\Users\vodin\Desktop\KTDH_NHOM_12\obj\Debug\KTDH_NHOM_12.frm_Main.resources
+C:\Users\vodin\Desktop\KTDH_NHOM_12\obj\Debug\KTDH_NHOM_12.Properties.Resources.resources
+C:\Users\vodin\Desktop\KTDH_NHOM_12\obj\Debug\KTDH_NHOM_12.UI.frm_ChangeMode.resources
+C:\Users\vodin\Desktop\KTDH_NHOM_12\obj\Debug\KTDH_NHOM_12.UI.UserCtr.ChooseMode.resources
+C:\Users\vodin\Desktop\KTDH_NHOM_12\obj\Debug\KTDH_NHOM_12.UI.UserCtr.HinhHopChuNhatProperties.resources
+C:\Users\vodin\Desktop\KTDH_NHOM_12\obj\Debug\KTDH_NHOM_12.UI.UserCtr.HinhTruProperties.resources
+C:\Users\vodin\Desktop\KTDH_NHOM_12\obj\Debug\KTDH_NHOM_12.UI.UserCtr.PinWheelProperties.resources
+C:\Users\vodin\Desktop\KTDH_NHOM_12\obj\Debug\KTDH_NHOM_12.UI.UserCtr.TruckProperties.resources
+C:\Users\vodin\Desktop\KTDH_NHOM_12\obj\Debug\KTDH_NHOM_12.csproj.GenerateResource.cache
+C:\Users\vodin\Desktop\KTDH_NHOM_12\obj\Debug\KTDH_NHOM_12.csproj.CoreCompileInputs.cache
+C:\Users\vodin\Desktop\KTDH_NHOM_12\obj\Debug\KTDH_NHOM_12.exe
+C:\Users\vodin\Desktop\KTDH_NHOM_12\obj\Debug\KTDH_NHOM_12.pdb
